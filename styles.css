@@ -1,0 +1,13 @@
+body {
+  margin-top: 10%;
+  font-family: 'Inter';
+  background-color: rgb(130, 180, 255);
+}
+.greeting {
+  font-size: 3vmin;
+  margin: 2px 0;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
